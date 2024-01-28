@@ -6,6 +6,7 @@ export const useCustomParams = () => {
   const { replace } = useRouter();
   const params = new URLSearchParams(searchParams);
 
+
   const handleReplaceParams = (params: URLSearchParams) => {
     replace(`${pathname}?${params}`, { scroll: false })
   }
