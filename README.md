@@ -1,6 +1,6 @@
 * [Files](https://github.com/Dimitry-prog/test-voshod) 
 * [page 2](https://sprightly-sprite-bc6731.netlify.app/?page=2) 
-* [modal](https://sprightly-sprite-bc6731.netlify.app/?page=2&item=11&showModal=y)https://sprightly-sprite-bc6731.netlify.app/?page=2&item=11&showModal=y) 
+* [modal](https://sprightly-sprite-bc6731.netlify.app/?page=2&item=11&showModal=y)
 
 
 ```bash
